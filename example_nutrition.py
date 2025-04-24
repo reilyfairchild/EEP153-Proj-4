@@ -147,7 +147,7 @@ import matplotlib.pyplot as plt
 
 X = np.linspace(xref/5,xref*5,50)
 
-UseNutrients = ['Protein','Energy','Iron','Calcium','Vitamin C']
+UseNutrients = ['Protein','Energy','Iron','Calcium']
 
 df = pd.concat({myx:np.log(nutrient_demand(myx,pbar))[UseNutrients] for myx in X},axis=1).T
 ax = df.plot()
@@ -155,7 +155,7 @@ ax = df.plot()
 ax.set_xlabel('log budget')
 ax.set_ylabel('log nutrient')
 
-USE_GOOD = 'Oranges'
+USE_GOOD = 'Beef'
 
 scale = np.geomspace(.01,10,50)
 
@@ -194,7 +194,7 @@ scale = np.geomspace(.01,2,50)
 ndf = pd.DataFrame({s*pbar[USE_GOOD]:np.log(nutrient_adequacy_ratio(xref/4,my_prices(USE_GOOD,pbar[USE_GOOD]*s),dbar))[UseNutrients] for s in scale}).T
 
 fig,ax = plt.subplots()
-ax.plot(ndf['Vitamin C'],ndf.index)
+ax.plot(ndf['Protein'],ndf.index)
 ax.axhline(pbar[USE_GOOD])
 ax.axvline(0)
 
