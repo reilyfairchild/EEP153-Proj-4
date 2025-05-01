@@ -3,20 +3,20 @@
 import pandas as pd
 import cfe.regression as rgsn
 
-Uganda_Data = '1MHl6EPsSoUXLQWdkiVob97eX2CepZnWxLIB6u-PzkNo'
+Malawi_Data = '1MHl6EPsSoUXLQWdkiVob97eX2CepZnWxLIB6u-PzkNo'
 Unutrition = '1yFWlP5N7Aowaj6t2roRSFFUC50aFD-RLBGfzGtqLl0w'
 
 import pandas as pd
 import numpy as np
 from eep153_tools.sheets import read_sheets
 
-# Change 'Uganda_Data' to key of your own sheet in Sheets, above
-x = read_sheets(Uganda_Data,sheet='Food Expenditures (2019-20)')
+# Change 'Malawi_Data' to key of your own sheet in Sheets, above
+x = read_sheets(Malawi_Data,sheet='Food Expenditures (2019-20)')
 x = x.set_index(['i','t','m','j']).squeeze()
 
 
 # Now prices
-p = read_sheets(Uganda_Data,sheet='Food Prices (2019-20)').set_index(['t','m','j','u'])
+p = read_sheets(Malawi_Data,sheet='Food Prices (2019-20)').set_index(['t','m','j','u'])
 
 # Compute medians of prices for particular time, place and unit
 p = p.groupby(['t','m','j','u']).median()
@@ -31,7 +31,7 @@ jidx = p.columns.intersection(x.index.levels[-1])
 p = p[jidx].T
 
 # Household characteristics
-d = read_sheets(Uganda_Data,sheet="Household Characteristics")
+d = read_sheets(Malawi_Data,sheet="Household Characteristics")
 d.columns.name = 'k'
 
 # Fill blanks with zeros
@@ -131,7 +131,7 @@ print(fct0.index)
 # The @ operator means matrix multiply
 N = fct0.T@c0
 
-N  #NB: Uganda quantities are for previous 7 days
+N  #NB: Malawi quantities are for previous 7 days
 
 def nutrient_demand(x,p):
     c = r.demands(x,p)
