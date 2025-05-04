@@ -13,9 +13,13 @@ Project Structure
 Nutritional_Analysis.ipynb contains analysis for:
 
 •Determining the Most Consumed Foods
+
 •Nutritional Adequacy of Diet: Determining Which Nutrients Are Lacking
+
 •Nutritional Analysis: Looking at the Most-Deficient Nutrients
+
 •How can we increase these most limited nutrients by increasing the consumption of existing foods? Which foods are consumed the most to fortify?
+
 •Determine fortification for maize-rich foods
 
 📁 Data Files
