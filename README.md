@@ -23,10 +23,13 @@ Nutritional_Analysis.ipynb contains analysis for:
 •Determine fortification for maize-rich foods
 
 📁 Data Files
+
 All CSV files used in our analysis, including raw and cleaned datasets.
 
-📁 Nutrient Data
+📁 Demand and Nutrional Analysis
+    
 Includes saved nutrient dataframes generated from our analysis for each year of data. These were used to assess dietary quality and nutritional trends over time.
 
 📁 RGSN Files
+
 Stores regression-ready data for each year, used in our statistical modeling and demand estimation analysis
