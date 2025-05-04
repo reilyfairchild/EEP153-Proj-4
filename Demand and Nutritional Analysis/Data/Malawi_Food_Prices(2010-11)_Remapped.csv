@@ -1,0 +1,346 @@
+t,m,j,u,Price
+2010-11,Central,Apple,kg,365.1946021
+2010-11,Central,Avocado,kg,62.31977473
+2010-11,Central,Banana,kg,66.06899637
+2010-11,Central,"Bean, Brown",kg,218.1307031
+2010-11,Central,"Bean, White",kg,88.00389964
+2010-11,Central,Beef,kg,252.7976051
+2010-11,Central,Biscuits,kg,104.9651971
+2010-11,Central,Bottled/ Canned Beer,kg,73.5176969
+2010-11,Central,Bottled/ Canned Beer,kg,46.29737564
+2010-11,Central,Bread,kg,209.7651783
+2010-11,Central,Breakfast Cereal,kg,290.1016562
+2010-11,Central,"Buns, Scones",kg,206.4196108
+2010-11,Central,Butter,kg,2.763109756
+2010-11,Central,Cabbage,kg,46.03705866
+2010-11,Central,Cassava - Boiled (Vendor),kg,29.59889747
+2010-11,Central,Cassava Flour,kg,156.0274274
+2010-11,Central,Cassava Tubers,kg,46.9880642
+2010-11,Central,Chambiko - Soured Milk,kg,15.72201874
+2010-11,Central,Cheese,kg,0.4109977324
+2010-11,Central,Chibuku (Commercial Traditional-Style Beer),kg,52.1148167
+2010-11,Central,Chicken,kg,505.1976133
+2010-11,Central,Chicken (Vendor),kg,647.4143477
+2010-11,Central,Chinese Cabbage,kg,38.59702116
+2010-11,Central,Chips (Vendor),kg,169.1999233
+2010-11,Central,"Citrus  naartje, orange, etc.",kg,48.27580521
+2010-11,Central,"Cocoa, Millo",kg,46.72700896
+2010-11,Central,Cocoyam (Masimbi),kg,26.93602694
+2010-11,Central,Coffee,kg,24.24764999
+2010-11,Central,Cooking Oil,kg,72.08109125
+2010-11,Central,Cowpea (Khobwe),kg,89.41636585
+2010-11,Central,Cucumber,kg,42.91097583
+2010-11,Central,Dried Fish,kg,443.2230476
+2010-11,Central,Eggs,kg,462.1301656
+2010-11,Central,Eggs - Boiled (Vendor),kg,327.3148148
+2010-11,Central,Finger Millet,kg,68.78011701
+2010-11,Central,Fish (Vendor),kg,126.2242447
+2010-11,Central,Fish Soup/Sauce,kg,0.5137471655
+2010-11,Central,Freezes (Flavoured Ice),kg,23.3020633
+2010-11,Central,Fresh Fish (Large Variety),kg,262.0302268
+2010-11,Central,Fresh Milk,kg,40.65434913
+2010-11,Central,Fruit Juice,kg,92.08615596
+2010-11,Central,Gathered Wild Green Leaves,kg,135.3533239
+2010-11,Central,Goat,kg,223.5426496
+2010-11,Central,Green Maize,kg,76.79675679
+2010-11,Central,Ground Bean,kg,83.91729154
+2010-11,Central,Groundnut,kg,1055.688387
+2010-11,Central,Groundnut Flour,kg,356.1765551
+2010-11,Central,Guava,kg,67.63208383
+2010-11,Central,Honey,kg,29.20017246
+2010-11,Central,"Hot Sauce (Nali, Etc.)",kg,19.51681095
+2010-11,Central,Infant Feeding Cereals,kg,83.09589459
+2010-11,Central,Infant Feeding Formula,kg,215.5612245
+2010-11,Central,Irish Potato,kg,63.1260914
+2010-11,Central,"Jam, Jelly, Honey",kg,5.023880764
+2010-11,Central,Locally Brewed Liquor,kg,30.71146397
+2010-11,Central,Macademia Nuts,kg,
+2010-11,Central,Maheu,kg,53.69774789
+2010-11,Central,Maize - Boiled Or Roasted,kg,40.24082774
+2010-11,Central,Maize Grain (Not As Ufa),kg,13.95631068
+2010-11,Central,Maize Ufa Madeya (Bran Flo,kg,72.16497305
+2010-11,Central,Maize Ufa Mgaiwa (Normal F,kg,55.58664493
+2010-11,Central,Maize Ufa Refined (Fine Fl,kg,69.83844334
+2010-11,Central,"Mandazi, Doughnut (Vendor)",kg,105.8303595
+2010-11,Central,Mango,kg,51.75852949
+2010-11,Central,Margarine,kg,85.15982147
+2010-11,Central,Meat Eaten At Restaurant,kg,131.7392948
+2010-11,Central,Meat (Vendor),kg,1212.515579
+2010-11,Central,Mushroom,kg,
+2010-11,Central,Mutton,kg,427.8773738
+2010-11,Central,Nkwani,kg,54.20191066
+2010-11,Central,Okra/Therere,kg,102.4853435
+2010-11,Central,Onion,kg,158.3390554
+2010-11,Central,Orange Sweet Potato,kg,50.58404126
+2010-11,Central,Other (Specify),kg,84.13173061
+2010-11,Central,Other Cultivated Green Lea,kg,38.82467704
+2010-11,Central,Other Fruits,kg,3.817221511
+2010-11,Central,"Other Poultry-Guinea Fowl,",kg,152.6888604
+2010-11,Central,Other Vegetable,kg,58.50767085
+2010-11,Central,Papaya,kg,40.91411565
+2010-11,Central,Pearl Millet,kg,
+2010-11,Central,Pigeon Pea (Nandolo),kg,613.2910021
+2010-11,Central,Pineapple,kg,69.17257683
+2010-11,Central,"Plantain, Cooking Banana",kg,91.40423648
+2010-11,Central,Pork,kg,175.4412459
+2010-11,Central,Potato Crisps,kg,286.93308
+2010-11,Central,Powdered Milk,kg,129.7914391
+2010-11,Central,Pumpkin,kg,20.86675767
+2010-11,Central,Rice,kg,81.87379784
+2010-11,Central,Salt,kg,113.6585865
+2010-11,Central,Samosa (Vendor),kg,355.616622
+2010-11,Central,"Small animal  rabbit, mice, etc.",kg,38.10774079
+2010-11,Central,Smoked Fish (Large Variety),kg,453.8591375
+2010-11,Central,"Soft Drinks (Coca Cola, Fa",kg,17.54654008
+2010-11,Central,Sorghum,kg,242.7184437
+2010-11,Central,Soyabean Flour,kg,101.3740818
+2010-11,Central,"Spaghetti, Macaroni, Pasta",kg,187.5399716
+2010-11,Central,Spices,kg,41.99514123
+2010-11,Central,Squash (Sobo Drink Concent,kg,74.73898666
+2010-11,Central,Sugar,kg,74.0286273
+2010-11,Central,Sugar Cane,kg,17.18827605
+2010-11,Central,"Sweets, Candy, Chocolates",kg,78.01588021
+2010-11,Central,Tanaposi Rape,kg,57.3047939
+2010-11,Central,Tea,kg,6.642546963
+2010-11,Central,"Termites, Other Insect",kg,2250.0
+2010-11,Central,Thobwa,kg,33.14064551
+2010-11,Central,Tinned Meat Or Fish,kg,483.1366727
+2010-11,Central,Tinned Vegetables,kg,370.3703704
+2010-11,Central,Tomato,kg,85.08240977
+2010-11,Central,Tomato Sauce (Bottle),kg,46.16579404
+2010-11,Central,Traditional Beer (Masase),kg,39.80737617
+2010-11,Central,Wheat Flour,kg,104.5257127
+2010-11,Central,White Sweet Potato,kg,37.82247967
+2010-11,Central,"Wild Fruit (Masau, Mlambe,",kg,50.24635916
+2010-11,Central,Wine Or Commercial Liquor,kg,15.37462594
+2010-11,Central,"Yeast, Baking Powder, Bica",kg,24.93623739
+2010-11,Central,Yoghurt,kg,22.49583401
+2010-11,North,Apple,kg,534.2857143
+2010-11,North,Avocado,kg,35.28061224
+2010-11,North,Banana,kg,140.9061818
+2010-11,North,"Bean, Brown",kg,260.5988217
+2010-11,North,"Bean, White",kg,87.96181951
+2010-11,North,Beef,kg,235.9517163
+2010-11,North,Biscuits,kg,132.1378233
+2010-11,North,Bottled/ Canned Beer,kg,22.33252915
+2010-11,North,Bottled/ Canned Beer,kg,24.55947985
+2010-11,North,Bread,kg,203.2413572
+2010-11,North,Breakfast Cereal,kg,80.43989676
+2010-11,North,"Buns, Scones",kg,115.080369
+2010-11,North,Butter,kg,2.143442702
+2010-11,North,Cabbage,kg,64.04973346
+2010-11,North,Cassava - Boiled (Vendor),kg,140.8208824
+2010-11,North,Cassava Flour,kg,70.09328142
+2010-11,North,Cassava Tubers,kg,69.12562769
+2010-11,North,Chambiko - Soured Milk,kg,44.06218434
+2010-11,North,Cheese,kg,5.078397213
+2010-11,North,Chibuku (Commercial Traditional-Style Beer),kg,43.93064854
+2010-11,North,Chicken,kg,447.5380905
+2010-11,North,Chicken (Vendor),kg,816.6666667
+2010-11,North,Chinese Cabbage,kg,34.17908181
+2010-11,North,Chips (Vendor),kg,193.9419143
+2010-11,North,"Citrus  naartje, orange, etc.",kg,37.91576827
+2010-11,North,"Cocoa, Millo",kg,37.7771574
+2010-11,North,Cocoyam (Masimbi),kg,81.80157991
+2010-11,North,Coffee,kg,44.80759178
+2010-11,North,Cooking Oil,kg,44.05096813
+2010-11,North,Cowpea (Khobwe),kg,136.1978795
+2010-11,North,Cucumber,kg,24.35064935
+2010-11,North,Dried Fish,kg,237.6745196
+2010-11,North,Eggs,kg,375.8751141
+2010-11,North,Eggs - Boiled (Vendor),kg,465.6410256
+2010-11,North,Finger Millet,kg,91.04679174
+2010-11,North,Fish (Vendor),kg,142.8571429
+2010-11,North,Freezes (Flavoured Ice),kg,16.67913658
+2010-11,North,Fresh Fish (Large Variety),kg,205.358003
+2010-11,North,Fresh Milk,kg,35.14474535
+2010-11,North,Fruit Juice,kg,99.77026307
+2010-11,North,Gathered Wild Green Leaves,kg,78.45238095
+2010-11,North,Goat,kg,214.7264822
+2010-11,North,Green Maize,kg,52.72195163
+2010-11,North,Ground Bean,kg,76.83982684
+2010-11,North,Groundnut,kg,377.4723117
+2010-11,North,Groundnut Flour,kg,638.0467765
+2010-11,North,Guava,kg,64.50066138
+2010-11,North,Honey,kg,38.50308293
+2010-11,North,"Hot Sauce (Nali, Etc.)",kg,2.715133651
+2010-11,North,Infant Feeding Cereals,kg,18.47773863
+2010-11,North,Infant Feeding Formula,kg,7.027680991
+2010-11,North,Irish Potato,kg,108.1689475
+2010-11,North,Locally Brewed Liquor,kg,14.76935978
+2010-11,North,Macademia Nuts,kg,24.87373737
+2010-11,North,Maheu,kg,42.20741084
+2010-11,North,Maize - Boiled Or Roasted,kg,32.68935589
+2010-11,North,Maize Grain (Not As Ufa),kg,40.03155456
+2010-11,North,Maize Ufa Madeya (Bran Flo,kg,11.31861913
+2010-11,North,Maize Ufa Mgaiwa (Normal F,kg,130.3238573
+2010-11,North,Maize Ufa Refined (Fine Fl,kg,89.69567554
+2010-11,North,"Mandazi, Doughnut (Vendor)",kg,164.6265529
+2010-11,North,Mango,kg,99.29961161
+2010-11,North,Margarine,kg,74.67943725
+2010-11,North,Meat Eaten At Restaurant,kg,246.831211
+2010-11,North,Meat (Vendor),kg,717.0836648
+2010-11,North,Mushroom,kg,175.4385965
+2010-11,North,Mutton,kg,206.3106796
+2010-11,North,Nkwani,kg,56.95964921
+2010-11,North,Okra/Therere,kg,212.334449
+2010-11,North,Onion,kg,188.7988319
+2010-11,North,Orange Sweet Potato,kg,42.50056436
+2010-11,North,Other (Specify),kg,18.00307023
+2010-11,North,Other Cultivated Green Lea,kg,49.62358851
+2010-11,North,Other Fruits,kg,
+2010-11,North,"Other Poultry-Guinea Fowl,",kg,349.9119718
+2010-11,North,Other Vegetable,kg,2.205768486
+2010-11,North,Papaya,kg,39.14402273
+2010-11,North,Pigeon Pea (Nandolo),kg,269.6316826
+2010-11,North,Pineapple,kg,
+2010-11,North,"Plantain, Cooking Banana",kg,87.33925008
+2010-11,North,Pork,kg,188.5182775
+2010-11,North,Potato Crisps,kg,72.91368989
+2010-11,North,Powdered Milk,kg,128.0664245
+2010-11,North,Pumpkin,kg,21.29961515
+2010-11,North,Rice,kg,90.212936
+2010-11,North,Salt,kg,154.5541542
+2010-11,North,Samosa (Vendor),kg,539.8845123
+2010-11,North,"Small animal  rabbit, mice, etc.",kg,161.1715749
+2010-11,North,Smoked Fish (Large Variety),kg,280.5791911
+2010-11,North,"Soft Drinks (Coca Cola, Fa",kg,4.598717142
+2010-11,North,Sorghum,kg,
+2010-11,North,Soyabean Flour,kg,120.5117588
+2010-11,North,"Spaghetti, Macaroni, Pasta",kg,26.79302127
+2010-11,North,Spices,kg,58.81188897
+2010-11,North,Squash (Sobo Drink Concent,kg,83.7472099
+2010-11,North,Sugar,kg,80.85074427
+2010-11,North,Sugar Cane,kg,17.250102
+2010-11,North,"Sweets, Candy, Chocolates",kg,9.021210188
+2010-11,North,Tanaposi Rape,kg,66.48412274
+2010-11,North,Tea,kg,6.829275738
+2010-11,North,"Termites, Other Insect",kg,887.0478529
+2010-11,North,Thobwa,kg,16.58249158
+2010-11,North,Tinned Meat Or Fish,kg,388.8888889
+2010-11,North,Tinned Vegetables,kg,
+2010-11,North,Tomato,kg,108.0680554
+2010-11,North,Tomato Sauce (Bottle),kg,1.086840698
+2010-11,North,Traditional Beer (Masase),kg,41.21279192
+2010-11,North,Wheat Flour,kg,77.49805081
+2010-11,North,White Sweet Potato,kg,43.7715448
+2010-11,North,"Wild Fruit (Masau, Mlambe,",kg,120.0
+2010-11,North,Wine Or Commercial Liquor,kg,21.71589656
+2010-11,North,"Yeast, Baking Powder, Bica",kg,39.87626904
+2010-11,North,Yoghurt,kg,26.95177529
+2010-11,Southern,Apple,kg,351.3945578
+2010-11,Southern,Avocado,kg,41.79158073
+2010-11,Southern,Banana,kg,63.56940729
+2010-11,Southern,"Bean, Brown",kg,389.2683726
+2010-11,Southern,"Bean, White",kg,112.8785908
+2010-11,Southern,Beef,kg,253.3093047
+2010-11,Southern,Biscuits,kg,65.56334051
+2010-11,Southern,Bottled/ Canned Beer,kg,47.10341163
+2010-11,Southern,Bottled/ Canned Beer,kg,45.97511625
+2010-11,Southern,Bread,kg,222.0302297
+2010-11,Southern,Breakfast Cereal,kg,198.5778999
+2010-11,Southern,"Buns, Scones",kg,212.1596856
+2010-11,Southern,Butter,kg,25.47677603
+2010-11,Southern,Cabbage,kg,26.26833084
+2010-11,Southern,Cassava - Boiled (Vendor),kg,28.14185033
+2010-11,Southern,Cassava Flour,kg,43.63427239
+2010-11,Southern,Cassava Tubers,kg,45.57916564
+2010-11,Southern,Chambiko - Soured Milk,kg,54.8133302
+2010-11,Southern,Cheese,kg,358.5447926
+2010-11,Southern,Chibuku (Commercial Traditional-Style Beer),kg,63.05133299
+2010-11,Southern,Chicken,kg,411.4996503
+2010-11,Southern,Chicken (Vendor),kg,1136.263736
+2010-11,Southern,Chinese Cabbage,kg,40.47918179
+2010-11,Southern,Chips (Vendor),kg,149.5760233
+2010-11,Southern,"Citrus  naartje, orange, etc.",kg,71.60516977
+2010-11,Southern,"Cocoa, Millo",kg,152.7281862
+2010-11,Southern,Cocoyam (Masimbi),kg,25.64277238
+2010-11,Southern,Coffee,kg,157.1472574
+2010-11,Southern,Cooking Oil,kg,82.08168115
+2010-11,Southern,Cowpea (Khobwe),kg,107.8979484
+2010-11,Southern,Cucumber,kg,31.85310146
+2010-11,Southern,Dried Fish,kg,448.3364252
+2010-11,Southern,Eggs,kg,456.9050879
+2010-11,Southern,Eggs - Boiled (Vendor),kg,489.5833333
+2010-11,Southern,Finger Millet,kg,189.1259267
+2010-11,Southern,Fish (Vendor),kg,512.4020447
+2010-11,Southern,Fish Soup/Sauce,kg,222.8767537
+2010-11,Southern,Freezes (Flavoured Ice),kg,13.45504355
+2010-11,Southern,Fresh Fish (Large Variety),kg,234.2683819
+2010-11,Southern,Fresh Milk,kg,47.19188308
+2010-11,Southern,Fruit Juice,kg,98.78029562
+2010-11,Southern,Gathered Wild Green Leaves,kg,61.68831169
+2010-11,Southern,Goat,kg,189.1171816
+2010-11,Southern,Green Maize,kg,60.54034236
+2010-11,Southern,Ground Bean,kg,126.8067668
+2010-11,Southern,Groundnut,kg,359.0451887
+2010-11,Southern,Groundnut Flour,kg,414.3157024
+2010-11,Southern,Guava,kg,60.26599841
+2010-11,Southern,Honey,kg,218.132609
+2010-11,Southern,"Hot Sauce (Nali, Etc.)",kg,85.55596301
+2010-11,Southern,Infant Feeding Cereals,kg,75.35473259
+2010-11,Southern,Infant Feeding Formula,kg,25.86734694
+2010-11,Southern,Irish Potato,kg,84.47989916
+2010-11,Southern,"Jam, Jelly, Honey",kg,1.898108973
+2010-11,Southern,Locally Brewed Liquor,kg,55.26176304
+2010-11,Southern,Macademia Nuts,kg,41.80307994
+2010-11,Southern,Maheu,kg,50.07540243
+2010-11,Southern,Maize - Boiled Or Roasted,kg,50.75611437
+2010-11,Southern,Maize Grain (Not As Ufa),kg,85.21284541
+2010-11,Southern,Maize Ufa Madeya (Bran Flo,kg,69.89113016
+2010-11,Southern,Maize Ufa Mgaiwa (Normal F,kg,70.27449143
+2010-11,Southern,Maize Ufa Refined (Fine Fl,kg,79.74251039
+2010-11,Southern,"Mandazi, Doughnut (Vendor)",kg,201.5585844
+2010-11,Southern,Mango,kg,63.32236842
+2010-11,Southern,Margarine,kg,107.3591621
+2010-11,Southern,Meat Eaten At Restaurant,kg,97.66952284
+2010-11,Southern,Meat (Vendor),kg,400.7817557
+2010-11,Southern,Mushroom,kg,76.5745181
+2010-11,Southern,Mutton,kg,827.0646607
+2010-11,Southern,Nkwani,kg,82.68871533
+2010-11,Southern,Okra/Therere,kg,104.043573
+2010-11,Southern,Onion,kg,140.5542082
+2010-11,Southern,Orange Sweet Potato,kg,48.26207814
+2010-11,Southern,Other (Specify),kg,59.91349177
+2010-11,Southern,Other Cultivated Green Lea,kg,21.57448287
+2010-11,Southern,Other Fruits,kg,
+2010-11,Southern,"Other Poultry-Guinea Fowl,",kg,636.2035851
+2010-11,Southern,Other Vegetable,kg,39.0625
+2010-11,Southern,Papaya,kg,25.92889602
+2010-11,Southern,Pearl Millet,kg,54.11518094
+2010-11,Southern,Pigeon Pea (Nandolo),kg,214.5882161
+2010-11,Southern,Pineapple,kg,60.76023392
+2010-11,Southern,"Plantain, Cooking Banana",kg,17.29398059
+2010-11,Southern,Pork,kg,143.5579498
+2010-11,Southern,Potato Crisps,kg,281.7813824
+2010-11,Southern,Powdered Milk,kg,358.9203803
+2010-11,Southern,Pumpkin,kg,21.2437761
+2010-11,Southern,Rice,kg,73.07258193
+2010-11,Southern,Salt,kg,99.60992667
+2010-11,Southern,Samosa (Vendor),kg,220.6151764
+2010-11,Southern,"Small animal  rabbit, mice, etc.",kg,15.85407805
+2010-11,Southern,Smoked Fish (Large Variety),kg,273.9780776
+2010-11,Southern,"Soft Drinks (Coca Cola, Fa",kg,17.62196015
+2010-11,Southern,Sorghum,kg,109.530076
+2010-11,Southern,Soyabean Flour,kg,61.13283591
+2010-11,Southern,"Spaghetti, Macaroni, Pasta",kg,173.6802573
+2010-11,Southern,Spices,kg,66.61930041
+2010-11,Southern,Squash (Sobo Drink Concent,kg,81.48205327
+2010-11,Southern,Sugar,kg,68.37387164
+2010-11,Southern,Sugar Cane,kg,19.46651696
+2010-11,Southern,"Sweets, Candy, Chocolates",kg,14.73232226
+2010-11,Southern,Tanaposi Rape,kg,52.133281
+2010-11,Southern,Tea,kg,22.1236008
+2010-11,Southern,"Termites, Other Insect",kg,12.7240717
+2010-11,Southern,Thobwa,kg,17.85588961
+2010-11,Southern,Tinned Meat Or Fish,kg,367.6278631
+2010-11,Southern,Tinned Vegetables,kg,
+2010-11,Southern,Tomato,kg,79.90455102
+2010-11,Southern,Tomato Sauce (Bottle),kg,203.6783601
+2010-11,Southern,Traditional Beer (Masase),kg,24.63984552
+2010-11,Southern,Wheat Flour,kg,133.4174562
+2010-11,Southern,White Sweet Potato,kg,33.84925366
+2010-11,Southern,"Wild Fruit (Masau, Mlambe,",kg,65.76004842
+2010-11,Southern,Wine Or Commercial Liquor,kg,129.4244142
+2010-11,Southern,"Yeast, Baking Powder, Bica",kg,25.03669604
+2010-11,Southern,Yoghurt,kg,55.84271708
