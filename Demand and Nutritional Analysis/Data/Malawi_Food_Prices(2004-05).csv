@@ -1,0 +1,339 @@
+t,m,j,u,Price
+2004-05,Central,apple,kg,62.23015873
+2004-05,Central,avocado,kg,20.07449495
+2004-05,Central,banana,kg,6.679788354
+2004-05,Central,"bean, brown",kg,51.03975263
+2004-05,Central,"bean, white",kg,46.31542542
+2004-05,Central,beef,kg,201.6203072
+2004-05,Central,biscuits,kg,158.1520843
+2004-05,Central,bottled/ canned beer,kg,62.63969437
+2004-05,Central,bread,kg,751.396376
+2004-05,Central,breakfast cereal,kg,444.170068
+2004-05,Central,"buns, scones",kg,15.80743008
+2004-05,Central,butter,kg,14675.76918
+2004-05,Central,cabbage,kg,40.62502117
+2004-05,Central,cassava - boiled (vendor),kg,6.251157407
+2004-05,Central,cassava flour,kg,28.93859649
+2004-05,Central,cassava tubers,kg,9.335581758
+2004-05,Central,chambiko - soured milk,kg,60.95072222
+2004-05,Central,cheese,kg,3689.875
+2004-05,Central,chibuku/ napolo,kg,34.94397994
+2004-05,Central,chicken,kg,1311.940069
+2004-05,Central,chicken (vendor),kg,53.34613836
+2004-05,Central,chinese cabbage,kg,8.092473211
+2004-05,Central,chips (vendor),kg,56.17692023
+2004-05,Central,"citrus, naartje, orange, e",kg,6.826182728
+2004-05,Central,cocoyam (masimbi),kg,
+2004-05,Central,coffee,kg,1377.028012
+2004-05,Central,cooking oil,kg,43.62412034
+2004-05,Central,cowpea (khobwe),kg,36.3079858
+2004-05,Central,cucumber,kg,17.87978728
+2004-05,Central,dried fish,kg,35.78382258
+2004-05,Central,eggs,kg,25.89852336
+2004-05,Central,eggs - boiled (vendor),kg,27.17820513
+2004-05,Central,finger millet,kg,46.14698736
+2004-05,Central,fish (vendor),kg,17.47480469
+2004-05,Central,freezes (flavoured ice),kg,13.06172411
+2004-05,Central,fresh fish,kg,57.82105468
+2004-05,Central,fresh milk,kg,58.24463897
+2004-05,Central,fruit juice,kg,73.46310905
+2004-05,Central,gathered wild green leaves,kg,10.7254902
+2004-05,Central,goat,kg,159.9230843
+2004-05,Central,green maize,kg,15.70232553
+2004-05,Central,ground bean,kg,55.85694444
+2004-05,Central,groundnut,kg,33.79970642
+2004-05,Central,groundnut flour,kg,43.30982377
+2004-05,Central,guava,kg,4.072620233
+2004-05,Central,"hot sauce (nali, etc.)",kg,135.8719063
+2004-05,Central,infant feeding cereals,kg,569.1341991
+2004-05,Central,infant feeding formula,kg,542.1125
+2004-05,Central,irish potato,kg,21.64222236
+2004-05,Central,"jam, jelly, honey",kg,559.4798932
+2004-05,Central,local sweet beer (thobwa),kg,11.11439223
+2004-05,Central,locally brewed liquor,kg,22.70121812
+2004-05,Central,maize - boiled or roasted,kg,16.9107831
+2004-05,Central,maize grain (not as ufa),kg,24.54661836
+2004-05,Central,maize ufa madeya (bran flo,kg,15.45918656
+2004-05,Central,maize ufa mgaiwa (normal f,kg,43.50425589
+2004-05,Central,maize ufa refined (fine fl,kg,30.55764815
+2004-05,Central,"mandazi, doughnut (vendor)",kg,9.485763217
+2004-05,Central,mango,kg,6.907577406
+2004-05,Central,margarine,kg,687.3221671
+2004-05,Central,meat (vendor),kg,25.70949162
+2004-05,Central,meat eaten at restaurant,kg,489.0426419
+2004-05,Central,nkwani,kg,11.20720569
+2004-05,Central,okra / therere,kg,10.5260418
+2004-05,Central,onion,kg,14.44439795
+2004-05,Central,orange sweet potato,kg,9.450757065
+2004-05,Central,other beverages,kg,259.2181086
+2004-05,Central,other cereals,kg,83.18333333
+2004-05,Central,other cooked foods,kg,21.48266819
+2004-05,Central,other cultivated green lea,kg,10.11054805
+2004-05,Central,other fats and oil,kg,400
+2004-05,Central,other fruits,kg,36.22205075
+2004-05,Central,other meat fish and animal,kg,80.33440887
+2004-05,Central,other milk and milk produc,kg,356.3945144
+2004-05,Central,"other poultry-guinea fowl,",kg,231
+2004-05,Central,other pulses,kg,291.2580645
+2004-05,Central,other roots and tubers,kg,
+2004-05,Central,other spices/ miscellaneou,kg,114.4006667
+2004-05,Central,other vegetable,kg,37.51609687
+2004-05,Central,papaya,kg,33.54559818
+2004-05,Central,pearl millet,kg,16.06666667
+2004-05,Central,pigeon pea (nandolo),kg,31.43066996
+2004-05,Central,pineapple,kg,53.35416667
+2004-05,Central,"plantain, cooking banana",kg,5.977023101
+2004-05,Central,pork,kg,140.4664182
+2004-05,Central,potato crisps,kg,837.6535969
+2004-05,Central,powdered milk,kg,1051.572057
+2004-05,Central,pumpkin,kg,30.27382439
+2004-05,Central,rice,kg,63.92083945
+2004-05,Central,salt,kg,69.35656965
+2004-05,Central,samosa (vendor),kg,19.84797095
+2004-05,Central,"small animal- rabbit, mice",kg,15.43046913
+2004-05,Central,"soft drinks (coca cola, fa",kg,15.50549937
+2004-05,Central,sorghum,kg,33.08333333
+2004-05,Central,soyabean flour,kg,38.68170824
+2004-05,Central,"spaghetti, macaroni, pasta",kg,537.6333333
+2004-05,Central,spices,kg,1169.198171
+2004-05,Central,squash (sobo drink concent,kg,78.67231173
+2004-05,Central,sugar,kg,61.64437674
+2004-05,Central,sugar cane,kg,13.07267343
+2004-05,Central,"sweets, candy, chocolates",kg,13.10110953
+2004-05,Central,tanaposi rape,kg,13.8848833
+2004-05,Central,tea,kg,520.8342773
+2004-05,Central,"termites, other insect",kg,66.62987013
+2004-05,Central,tinned meat or fish,kg,344.4144262
+2004-05,Central,tinned vegetables,kg,639.3333333
+2004-05,Central,tomato,kg,9.405434665
+2004-05,Central,tomato sauce (bottle),kg,161.176946
+2004-05,Central,traditional beer (masase),kg,18.07821598
+2004-05,Central,wheat flour,kg,116.6290323
+2004-05,Central,white sweet potato,kg,15.29059334
+2004-05,Central,"wild fruit (masau, mlambe,",kg,16.73985043
+2004-05,Central,wine or commercial liquor,kg,112.752
+2004-05,Central,"yeast, baking powder, bica",kg,100.4025157
+2004-05,Central,yoghurt,kg,59.64514594
+2004-05,North,apple,kg,23.21428571
+2004-05,North,avocado,kg,12.4375
+2004-05,North,banana,kg,16.25386697
+2004-05,North,"bean, brown",kg,58.59410997
+2004-05,North,"bean, white",kg,49.22703412
+2004-05,North,beef,kg,174.6896259
+2004-05,North,biscuits,kg,427.674114
+2004-05,North,bottled/ canned beer,kg,41.62350265
+2004-05,North,bread,kg,125.1183862
+2004-05,North,breakfast cereal,kg,400
+2004-05,North,"buns, scones",kg,13.4868646
+2004-05,North,butter,kg,40
+2004-05,North,cabbage,kg,47.89757914
+2004-05,North,cassava - boiled (vendor),kg,4.804347826
+2004-05,North,cassava flour,kg,32.52227801
+2004-05,North,cassava tubers,kg,13.28080941
+2004-05,North,chambiko - soured milk,kg,25.02512791
+2004-05,North,chibuku/ napolo,kg,40.10890269
+2004-05,North,chicken,kg,539.7241379
+2004-05,North,chicken (vendor),kg,52.98076923
+2004-05,North,chinese cabbage,kg,21.69651057
+2004-05,North,chips (vendor),kg,112.3662045
+2004-05,North,"citrus, naartje, orange, e",kg,3.75085034
+2004-05,North,cocoyam (masimbi),kg,18.74263039
+2004-05,North,coffee,kg,665.0755691
+2004-05,North,cooking oil,kg,23.74339736
+2004-05,North,cowpea (khobwe),kg,28.71875
+2004-05,North,cucumber,kg,12.21111111
+2004-05,North,dried fish,kg,24.21908925
+2004-05,North,eggs,kg,22.64440994
+2004-05,North,eggs - boiled (vendor),kg,29.61111111
+2004-05,North,finger millet,kg,25
+2004-05,North,fish (vendor),kg,15.6
+2004-05,North,freezes (flavoured ice),kg,4.905
+2004-05,North,fresh fish,kg,43.64620116
+2004-05,North,fresh milk,kg,19.96662519
+2004-05,North,fruit juice,kg,607.4615
+2004-05,North,gathered wild green leaves,kg,28.96551724
+2004-05,North,goat,kg,137.6111111
+2004-05,North,green maize,kg,20.95756173
+2004-05,North,ground bean,kg,40.27777778
+2004-05,North,groundnut,kg,44.27328219
+2004-05,North,groundnut flour,kg,33.36884735
+2004-05,North,guava,kg,3.062222222
+2004-05,North,"hot sauce (nali, etc.)",kg,2.289473684
+2004-05,North,infant feeding cereals,kg,
+2004-05,North,infant feeding formula,kg,1141.666667
+2004-05,North,irish potato,kg,45.24154379
+2004-05,North,"jam, jelly, honey",kg,260.4589947
+2004-05,North,local sweet beer (thobwa),kg,13.525
+2004-05,North,locally brewed liquor,kg,21.62430556
+2004-05,North,maize - boiled or roasted,kg,18.80452675
+2004-05,North,maize grain (not as ufa),kg,27.64285714
+2004-05,North,maize ufa madeya (bran flo,kg,23.33333333
+2004-05,North,maize ufa mgaiwa (normal f,kg,34.1907931
+2004-05,North,maize ufa refined (fine fl,kg,44.92855064
+2004-05,North,"mandazi, doughnut (vendor)",kg,8.853981974
+2004-05,North,mango,kg,7.446877912
+2004-05,North,margarine,kg,712.7589167
+2004-05,North,meat (vendor),kg,16.30617284
+2004-05,North,meat eaten at restaurant,kg,250.7184685
+2004-05,North,nkwani,kg,17.46371915
+2004-05,North,okra / therere,kg,9.938308348
+2004-05,North,onion,kg,18.80850242
+2004-05,North,orange sweet potato,kg,33.8918794
+2004-05,North,other beverages,kg,0.825
+2004-05,North,other cooked foods,kg,10.45555556
+2004-05,North,other cultivated green lea,kg,34.41091218
+2004-05,North,other fruits,kg,33.40277778
+2004-05,North,other meat fish and animal,kg,25.1468254
+2004-05,North,"other poultry-guinea fowl,",kg,335.8333333
+2004-05,North,other pulses,kg,37.92857143
+2004-05,North,other spices/ miscellaneou,kg,1600
+2004-05,North,other vegetable,kg,21.66666667
+2004-05,North,papaya,kg,37.08333333
+2004-05,North,pearl millet,kg,12.5
+2004-05,North,pigeon pea (nandolo),kg,27.43888889
+2004-05,North,pineapple,kg,47.39583333
+2004-05,North,"plantain, cooking banana",kg,41.22533482
+2004-05,North,pork,kg,136.6
+2004-05,North,potato crisps,kg,595.0810256
+2004-05,North,powdered milk,kg,1011.48675
+2004-05,North,pumpkin,kg,46.98166393
+2004-05,North,rice,kg,69.69556972
+2004-05,North,salt,kg,68.5608074
+2004-05,North,samosa (vendor),kg,17.63218391
+2004-05,North,"small animal- rabbit, mice",kg,153.3333333
+2004-05,North,"soft drinks (coca cola, fa",kg,15.80180364
+2004-05,North,sorghum,kg,
+2004-05,North,soyabean flour,kg,45.7
+2004-05,North,spices,kg,982.3529412
+2004-05,North,squash (sobo drink concent,kg,70.52178237
+2004-05,North,sugar,kg,64.4409425
+2004-05,North,sugar cane,kg,13.75353836
+2004-05,North,"sweets, candy, chocolates",kg,2.542111959
+2004-05,North,tanaposi rape,kg,12.58636556
+2004-05,North,tea,kg,751.1515105
+2004-05,North,"termites, other insect",kg,42.65277778
+2004-05,North,tinned meat or fish,kg,169.2252483
+2004-05,North,tomato,kg,14.24163472
+2004-05,North,tomato sauce (bottle),kg,0.485
+2004-05,North,traditional beer (masase),kg,17.20046469
+2004-05,North,wheat flour,kg,71.8
+2004-05,North,white sweet potato,kg,14.93897082
+2004-05,North,"wild fruit (masau, mlambe,",kg,
+2004-05,North,wine or commercial liquor,kg,18.9725
+2004-05,North,"yeast, baking powder, bica",kg,108.2692068
+2004-05,North,yoghurt,kg,67.10592593
+2004-05,Southern,apple,kg,49.24305556
+2004-05,Southern,avocado,kg,13.94791762
+2004-05,Southern,banana,kg,12.39433806
+2004-05,Southern,"bean, brown",kg,49.83816281
+2004-05,Southern,"bean, white",kg,54.72764837
+2004-05,Southern,beef,kg,179.3161387
+2004-05,Southern,biscuits,kg,316.6018942
+2004-05,Southern,bottled/ canned beer,kg,94.3739597
+2004-05,Southern,bread,kg,110.4580422
+2004-05,Southern,breakfast cereal,kg,279.6367706
+2004-05,Southern,"buns, scones",kg,15.46904462
+2004-05,Southern,butter,kg,968.0166667
+2004-05,Southern,cabbage,kg,40.9864937
+2004-05,Southern,cassava - boiled (vendor),kg,4.809194959
+2004-05,Southern,cassava flour,kg,24.92270714
+2004-05,Southern,cassava tubers,kg,9.573261927
+2004-05,Southern,chambiko - soured milk,kg,39.81470513
+2004-05,Southern,cheese,kg,550
+2004-05,Southern,chibuku/ napolo,kg,36.83350301
+2004-05,Southern,chicken,kg,524.7309572
+2004-05,Southern,chicken (vendor),kg,114.4728261
+2004-05,Southern,chinese cabbage,kg,12.72649486
+2004-05,Southern,chips (vendor),kg,64.15018763
+2004-05,Southern,"citrus, naartje, orange, e",kg,6.583512734
+2004-05,Southern,cocoyam (masimbi),kg,7.613425926
+2004-05,Southern,coffee,kg,1496.642283
+2004-05,Southern,cooking oil,kg,83.63469628
+2004-05,Southern,cowpea (khobwe),kg,28.6705653
+2004-05,Southern,cucumber,kg,11.16080472
+2004-05,Southern,dried fish,kg,24.62676546
+2004-05,Southern,eggs,kg,23.39289526
+2004-05,Southern,eggs - boiled (vendor),kg,27.60752688
+2004-05,Southern,finger millet,kg,39.58823529
+2004-05,Southern,fish (vendor),kg,10.86840124
+2004-05,Southern,freezes (flavoured ice),kg,8.35380599
+2004-05,Southern,fresh fish,kg,36.73009414
+2004-05,Southern,fresh milk,kg,124.1461306
+2004-05,Southern,fruit juice,kg,37.78832453
+2004-05,Southern,gathered wild green leaves,kg,9.296378968
+2004-05,Southern,goat,kg,147.4286189
+2004-05,Southern,green maize,kg,14.40829968
+2004-05,Southern,ground bean,kg,22.53739837
+2004-05,Southern,groundnut,kg,86.28117204
+2004-05,Southern,groundnut flour,kg,38.01929654
+2004-05,Southern,guava,kg,7.305266401
+2004-05,Southern,"hot sauce (nali, etc.)",kg,3033.595556
+2004-05,Southern,infant feeding cereals,kg,463.1055901
+2004-05,Southern,infant feeding formula,kg,381.9232377
+2004-05,Southern,irish potato,kg,46.44002289
+2004-05,Southern,"jam, jelly, honey",kg,444.4333333
+2004-05,Southern,local sweet beer (thobwa),kg,9.97625
+2004-05,Southern,locally brewed liquor,kg,38.39218315
+2004-05,Southern,maize - boiled or roasted,kg,13.45640714
+2004-05,Southern,maize grain (not as ufa),kg,18.77482211
+2004-05,Southern,maize ufa madeya (bran flo,kg,28.86667786
+2004-05,Southern,maize ufa mgaiwa (normal f,kg,20.91893874
+2004-05,Southern,maize ufa refined (fine fl,kg,23.87018575
+2004-05,Southern,"mandazi, doughnut (vendor)",kg,9.011783295
+2004-05,Southern,mango,kg,7.346278058
+2004-05,Southern,margarine,kg,479.5033835
+2004-05,Southern,meat (vendor),kg,43.66468254
+2004-05,Southern,meat eaten at restaurant,kg,56.00261119
+2004-05,Southern,nkwani,kg,10.77496765
+2004-05,Southern,okra / therere,kg,4.259524948
+2004-05,Southern,onion,kg,13.67532666
+2004-05,Southern,orange sweet potato,kg,11.45528876
+2004-05,Southern,other beverages,kg,24.67166667
+2004-05,Southern,other cereals,kg,18.05555556
+2004-05,Southern,other cooked foods,kg,14.43689228
+2004-05,Southern,other cultivated green lea,kg,5.403276339
+2004-05,Southern,other fats and oil,kg,15191.40476
+2004-05,Southern,other fruits,kg,25.23611111
+2004-05,Southern,other meat fish and animal,kg,84.30793651
+2004-05,Southern,other milk and milk produc,kg,89.21089385
+2004-05,Southern,"other poultry-guinea fowl,",kg,129.9638889
+2004-05,Southern,other pulses,kg,13.70863248
+2004-05,Southern,other roots and tubers,kg,7.760488506
+2004-05,Southern,other spices/ miscellaneou,kg,45.09259259
+2004-05,Southern,other vegetable,kg,11.93174603
+2004-05,Southern,papaya,kg,26.07678799
+2004-05,Southern,pearl millet,kg,45.09387755
+2004-05,Southern,pigeon pea (nandolo),kg,28.4158992
+2004-05,Southern,pineapple,kg,44.74829932
+2004-05,Southern,"plantain, cooking banana",kg,15.29121511
+2004-05,Southern,pork,kg,158.0889688
+2004-05,Southern,potato crisps,kg,2239.070076
+2004-05,Southern,powdered milk,kg,798.6949627
+2004-05,Southern,pumpkin,kg,27.80339674
+2004-05,Southern,rice,kg,80.72552393
+2004-05,Southern,salt,kg,87.10974804
+2004-05,Southern,samosa (vendor),kg,12.69892632
+2004-05,Southern,"small animal- rabbit, mice",kg,27.47888889
+2004-05,Southern,"soft drinks (coca cola, fa",kg,21.84888542
+2004-05,Southern,sorghum,kg,21.46845878
+2004-05,Southern,soyabean flour,kg,92.125
+2004-05,Southern,"spaghetti, macaroni, pasta",kg,4129.769933
+2004-05,Southern,spices,kg,824.2334001
+2004-05,Southern,squash (sobo drink concent,kg,91.66195333
+2004-05,Southern,sugar,kg,66.36053903
+2004-05,Southern,sugar cane,kg,11.40054694
+2004-05,Southern,"sweets, candy, chocolates",kg,7.95539181
+2004-05,Southern,tanaposi rape,kg,12.51248327
+2004-05,Southern,tea,kg,503.7461281
+2004-05,Southern,"termites, other insect",kg,21.88461538
+2004-05,Southern,tinned meat or fish,kg,1425.277778
+2004-05,Southern,tinned vegetables,kg,2000
+2004-05,Southern,tomato,kg,8.943794737
+2004-05,Southern,tomato sauce (bottle),kg,593.8452381
+2004-05,Southern,traditional beer (masase),kg,22.55321429
+2004-05,Southern,wheat flour,kg,85.96078431
+2004-05,Southern,white sweet potato,kg,12.34584651
+2004-05,Southern,"wild fruit (masau, mlambe,",kg,25.28809524
+2004-05,Southern,wine or commercial liquor,kg,0.915
+2004-05,Southern,"yeast, baking powder, bica",kg,149.4894463
+2004-05,Southern,yoghurt,kg,83.68387148

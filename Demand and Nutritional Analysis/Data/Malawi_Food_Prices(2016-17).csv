@@ -1,0 +1,400 @@
+t,m,j,u,Price
+2016-17,Central,Apple,kg,1583.132691
+2016-17,Central,Avocado,kg,256.620603
+2016-17,Central,Banana,kg,566.8745624
+2016-17,Central,"Bean, brown",kg,9574.365741
+2016-17,Central,"Bean, white",kg,6345.23245
+2016-17,Central,Beef,kg,1731.386293
+2016-17,Central,Biscuits,kg,1109.379861
+2016-17,Central,Boiled groundnuts,kg,205.0394108
+2016-17,Central,Boiled sweet potatoes,kg,113.0144033
+2016-17,Central,"Bottled / canned beer (carlsberg, etc.)",kg,747.9568128
+2016-17,Central,Bottled water,kg,203.5924702
+2016-17,Central,Bread,kg,779.2916782
+2016-17,Central,Breakfast cereal,kg,2968.719467
+2016-17,Central,"Buns, scones",kg,858.4844802
+2016-17,Central,Butter,kg,2726.821362
+2016-17,Central,Cabbage,kg,160.5688967
+2016-17,Central,Cassava - boiled (vendor),kg,138.3658009
+2016-17,Central,Cassava - roasted (vendor),kg,113.75
+2016-17,Central,Cassava flour,kg,383.4464648
+2016-17,Central,Cassava tubers,kg,185.8966898
+2016-17,Central,Chambiko - soured milk,kg,795.1498889
+2016-17,Central,Cheese,kg,4342.321798
+2016-17,Central,Chibuku (commercial traditional-style beer),kg,303.9584045
+2016-17,Central,Chicken,kg,1978.024933
+2016-17,Central,Chicken (vendor),kg,1390.843923
+2016-17,Central,Chicken/pieces,kg,2757.432162
+2016-17,Central,Chinese cabbage,kg,128.9202056
+2016-17,Central,Chips (vendor),kg,749.658628
+2016-17,Central,"Citrus ï¿½ naartje, orange, etc.",kg,250.4992527
+2016-17,Central,"Cocoa, millo",kg,105531.896
+2016-17,Central,Cocoyam (masimbi),kg,416.6666667
+2016-17,Central,Coffee,kg,228032.2711
+2016-17,Central,Cooking oil,kg,643.4012083
+2016-17,Central,Cowpea (khobwe),kg,537.5607199
+2016-17,Central,Cucumber,kg,163.0870148
+2016-17,Central,Eggs,kg,1461.236232
+2016-17,Central,Eggs - boiled (vendor),kg,1002.619819
+2016-17,Central,Finger millet (mawere),kg,952.557236
+2016-17,Central,Fish (vendor),kg,660.6917791
+2016-17,Central,Fish soup/sauce,kg,673.81317
+2016-17,Central,Freezes (flavoured ice),kg,124.7834129
+2016-17,Central,Fresh fish (large variety),kg,1324.881568
+2016-17,Central,Fresh fish (medium variety),kg,481.0406761
+2016-17,Central,Fresh fish (small variety),kg,347.3876145
+2016-17,Central,Fresh milk,kg,1528.275238
+2016-17,Central,Fruit juice,kg,338.0741066
+2016-17,Central,Gathered wild green leaves,kg,368.9551426
+2016-17,Central,Goat,kg,1600.023041
+2016-17,Central,Green maize,kg,244.4710824
+2016-17,Central,Ground bean (nzama),kg,537.857253
+2016-17,Central,Groundnut (shelled),kg,500.2166651
+2016-17,Central,Groundnut (unshelled),kg,434.3899732
+2016-17,Central,Groundnut flour,kg,949.1132197
+2016-17,Central,Groundnut fresh (unshelled),kg,244.6278246
+2016-17,Central,Guava,kg,215.1648899
+2016-17,Central,Honey,kg,2167.106693
+2016-17,Central,"Hot sauce (nali, etc.)",kg,1189.733016
+2016-17,Central,Infant feeding cereals,kg,1993.027179
+2016-17,Central,Infant feeding formula (for bottle),kg,8600
+2016-17,Central,Irish potato,kg,306.945807
+2016-17,Central,"Jam, jelly",kg,3515.045628
+2016-17,Central,Locally brewed liquor (kachasu),kg,392.7991449
+2016-17,Central,Macademia nuts,kg,1400.600477
+2016-17,Central,Maheu,kg,457.1878468
+2016-17,Central,Maize - boiled or roasted (vendor),kg,271.6107266
+2016-17,Central,Maize grain (not as ufa),kg,307.3801905
+2016-17,Central,Maize ufa madeya (bran flour),kg,277.5618102
+2016-17,Central,Maize ufa mgaiwa (normal flour),kg,273.4173321
+2016-17,Central,Maize ufa refined (fine flour),kg,372.7738242
+2016-17,Central,"Mandazi, doughnut (vendor)",kg,472.0760441
+2016-17,Central,Mango,kg,137.0220466
+2016-17,Central,Margarine - blue band,kg,3037.787332
+2016-17,Central,Meal eaten at restaurant,kg,1653.379729
+2016-17,Central,Meat (vendor),kg,4454.205837
+2016-17,Central,Mushroom,kg,945.2267176
+2016-17,Central,Mutton,kg,1193.636364
+2016-17,Central,Nkhwani,kg,360.9472879
+2016-17,Central,Okra / therere,kg,442.0535346
+2016-17,Central,Onion,kg,545.3088014
+2016-17,Central,Orange sweet potato,kg,185.9316322
+2016-17,Central,Other (specify),kg,14817.88828
+2016-17,Central,Other cultivated green leafy vegetables,kg,121.0331607
+2016-17,Central,Other fruits (specify),kg,71.5515873
+2016-17,Central,"Other poultry - guinea fowl, doves, etc.",kg,1652.083333
+2016-17,Central,Other vegetables (specify),kg,189.6437601
+2016-17,Central,Other(specify),kg,274.3408231
+2016-17,Central,Papaya,kg,459.5277778
+2016-17,Central,Pearl millet (mchewere),kg,338.4615385
+2016-17,Central,Pigeonpea (nandolo),kg,9351.614105
+2016-17,Central,Pineapple,kg,505.3191489
+2016-17,Central,"Plantain, cooking banana",kg,748.9661235
+2016-17,Central,Popcorn,kg,89.33165621
+2016-17,Central,Pork,kg,1327.393621
+2016-17,Central,Potato crisps,kg,6806.134212
+2016-17,Central,Powdered milk,kg,4205.949267
+2016-17,Central,Pumpkin,kg,82.90441424
+2016-17,Central,Rice,kg,728.2856539
+2016-17,Central,Rosted groundnuts,kg,293.5755611
+2016-17,Central,Rosted sweet potatoes,kg,167.9166667
+2016-17,Central,Salt,kg,1364.79498
+2016-17,Central,Samosa (vendor),kg,1200.645161
+2016-17,Central,"Small animal ï¿½ rabbit, mice, etc.",kg,164.1821972
+2016-17,Central,Smoked fish (large variety),kg,734.175485
+2016-17,Central,Smoked fish (medium variety),kg,438.7777412
+2016-17,Central,Smoked fish (small variety),kg,369.7915993
+2016-17,Central,"Soft drinks (coca-cola, fanta, sprite, etc.)",kg,211.5478485
+2016-17,Central,Sorghum (mapira),kg,706.8275515
+2016-17,Central,Soyabean flour,kg,7457.052174
+2016-17,Central,"Spaghetti, macaroni, pasta",kg,1114.102524
+2016-17,Central,Spices,kg,2471.324379
+2016-17,Central,Squash (sobo drink concentrate),kg,727.4501016
+2016-17,Central,Sugar,kg,745.0835293
+2016-17,Central,Sugar cane,kg,152.7977646
+2016-17,Central,Sun dried fish (large variety),kg,596.0082624
+2016-17,Central,Sun dried fish (medium variety),kg,402.4263696
+2016-17,Central,Sun dried fish (small variety),kg,351.519444
+2016-17,Central,"Sweets, candy, chocolates",kg,11479.33558
+2016-17,Central,Tanaposi/rape,kg,122.8648015
+2016-17,Central,Tea,kg,6420.512763
+2016-17,Central,"Termites, other insects (eg ngumbi, caterpillar)",kg,2075.061335
+2016-17,Central,Thobwa,kg,115.0373768
+2016-17,Central,Tinned meat or fish,kg,1864.316239
+2016-17,Central,Tinned vegetables (specify),kg,
+2016-17,Central,Tomato,kg,354.2610936
+2016-17,Central,Tomato sauce (bottle),kg,1386.504259
+2016-17,Central,Traditional beer (masese),kg,174.8193249
+2016-17,Central,Wheat flour,kg,640.5630631
+2016-17,Central,White sweet potato,kg,167.1066353
+2016-17,Central,"Wild fruit (masau, malambe, etc.)",kg,206.629437
+2016-17,Central,Wine or commercial liquor,kg,1018.68531
+2016-17,Central,"Yeast, baking powder, bicarbonate of soda",kg,338.999439
+2016-17,Central,Yoghurt,kg,2240.430683
+2016-17,Central,Zikondamoyo/nkate,kg,72.18253545
+2016-17,North,Apple,kg,2202.708333
+2016-17,North,Avocado,kg,169.2896509
+2016-17,North,Banana,kg,580.8315079
+2016-17,North,"Bean, brown",kg,441.2432227
+2016-17,North,"Bean, white",kg,378.0992989
+2016-17,North,Beef,kg,1770.58547
+2016-17,North,Biscuits,kg,1466.732526
+2016-17,North,Boiled groundnuts,kg,222.8902153
+2016-17,North,Boiled sweet potatoes,kg,102.9166667
+2016-17,North,"Bottled / canned beer (carlsberg, etc.)",kg,950.9391467
+2016-17,North,Bottled water,kg,211.8812261
+2016-17,North,Bread,kg,700.9141156
+2016-17,North,Breakfast cereal,kg,2021.670615
+2016-17,North,"Buns, scones",kg,534.408044
+2016-17,North,Butter,kg,6083.597884
+2016-17,North,Cabbage,kg,169.9712216
+2016-17,North,Cassava - boiled (vendor),kg,478.7878788
+2016-17,North,Cassava - roasted (vendor),kg,61.49509804
+2016-17,North,Cassava flour,kg,488.8063051
+2016-17,North,Cassava tubers,kg,236.399641
+2016-17,North,Chambiko - soured milk,kg,636.8925488
+2016-17,North,Cheese,kg,3817.832222
+2016-17,North,Chibuku (commercial traditional-style beer),kg,365.0535883
+2016-17,North,Chicken,kg,1617.853288
+2016-17,North,Chicken (vendor),kg,2077.97619
+2016-17,North,Chicken/pieces,kg,434.837963
+2016-17,North,Chinese cabbage,kg,130.3880914
+2016-17,North,Chips (vendor),kg,1065.221501
+2016-17,North,"Citrus ï¿½ naartje, orange, etc.",kg,244.8911254
+2016-17,North,"Cocoa, millo",kg,11927.61109
+2016-17,North,Cocoyam (masimbi),kg,283.7015211
+2016-17,North,Coffee,kg,11341.87128
+2016-17,North,Cooking oil,kg,1377.197703
+2016-17,North,Cowpea (khobwe),kg,411.3620086
+2016-17,North,Cucumber,kg,445.7250958
+2016-17,North,Eggs,kg,1274.999399
+2016-17,North,Eggs - boiled (vendor),kg,1434.782609
+2016-17,North,Finger millet (mawere),kg,607.9336857
+2016-17,North,Fish (vendor),kg,522.7272727
+2016-17,North,Fish soup/sauce,kg,569.9839117
+2016-17,North,Freezes (flavoured ice),kg,71.20859492
+2016-17,North,Fresh fish (large variety),kg,1272.642245
+2016-17,North,Fresh fish (medium variety),kg,507.1559003
+2016-17,North,Fresh fish (small variety),kg,314.4082959
+2016-17,North,Fresh milk,kg,1202.527311
+2016-17,North,Fruit juice,kg,506.6887896
+2016-17,North,Gathered wild green leaves,kg,145.3137632
+2016-17,North,Goat,kg,1685.576865
+2016-17,North,Green maize,kg,209.7961366
+2016-17,North,Ground bean (nzama),kg,280.7675391
+2016-17,North,Groundnut (shelled),kg,418.9365837
+2016-17,North,Groundnut (unshelled),kg,324.6448636
+2016-17,North,Groundnut flour,kg,622.4487929
+2016-17,North,Groundnut fresh (unshelled),kg,235.9656648
+2016-17,North,Guava,kg,311.0626615
+2016-17,North,Honey,kg,2108.933333
+2016-17,North,"Hot sauce (nali, etc.)",kg,500.1747135
+2016-17,North,Infant feeding cereals,kg,2110.428571
+2016-17,North,Infant feeding formula (for bottle),kg,5849.555547
+2016-17,North,Irish potato,kg,412.3703718
+2016-17,North,"Jam, jelly",kg,3772.222222
+2016-17,North,Locally brewed liquor (kachasu),kg,400.6716844
+2016-17,North,Macademia nuts,kg,
+2016-17,North,Maheu,kg,402.766247
+2016-17,North,Maize - boiled or roasted (vendor),kg,270.6110632
+2016-17,North,Maize grain (not as ufa),kg,722.073678
+2016-17,North,Maize ufa madeya (bran flour),kg,463.7468387
+2016-17,North,Maize ufa mgaiwa (normal flour),kg,396.2470322
+2016-17,North,Maize ufa refined (fine flour),kg,408.7695793
+2016-17,North,"Mandazi, doughnut (vendor)",kg,805.3575062
+2016-17,North,Mango,kg,223.6129381
+2016-17,North,Margarine - blue band,kg,2568.143572
+2016-17,North,Meal eaten at restaurant,kg,1455.126762
+2016-17,North,Meat (vendor),kg,3119.875669
+2016-17,North,Mushroom,kg,610.5823068
+2016-17,North,Mutton,kg,2000
+2016-17,North,Nkhwani,kg,182.1273424
+2016-17,North,Okra / therere,kg,736.4464913
+2016-17,North,Onion,kg,592.692024
+2016-17,North,Orange sweet potato,kg,194.4887027
+2016-17,North,Other (specify),kg,5236.667318
+2016-17,North,Other cultivated green leafy vegetables,kg,110.127421
+2016-17,North,Other fruits (specify),kg,1878.169227
+2016-17,North,"Other poultry - guinea fowl, doves, etc.",kg,108.3333333
+2016-17,North,Other vegetables (specify),kg,169.4129015
+2016-17,North,Other(specify),kg,
+2016-17,North,Papaya,kg,369.6610987
+2016-17,North,Pearl millet (mchewere),kg,343.0236144
+2016-17,North,Pigeonpea (nandolo),kg,366.6328195
+2016-17,North,Pineapple,kg,188.8530631
+2016-17,North,"Plantain, cooking banana",kg,549.0989963
+2016-17,North,Popcorn,kg,115.359897
+2016-17,North,Pork,kg,1437.173203
+2016-17,North,Potato crisps,kg,6522.777778
+2016-17,North,Powdered milk,kg,9577.36332
+2016-17,North,Pumpkin,kg,81.83703633
+2016-17,North,Rice,kg,613.6618235
+2016-17,North,Rosted groundnuts,kg,397.1282051
+2016-17,North,Rosted sweet potatoes,kg,
+2016-17,North,Salt,kg,1033.215029
+2016-17,North,Samosa (vendor),kg,1793.014376
+2016-17,North,"Small animal ï¿½ rabbit, mice, etc.",kg,65
+2016-17,North,Smoked fish (large variety),kg,781.1829806
+2016-17,North,Smoked fish (medium variety),kg,425.1987721
+2016-17,North,Smoked fish (small variety),kg,318.4414352
+2016-17,North,"Soft drinks (coca-cola, fanta, sprite, etc.)",kg,211.8421472
+2016-17,North,Sorghum (mapira),kg,200
+2016-17,North,Soyabean flour,kg,5844.027663
+2016-17,North,"Spaghetti, macaroni, pasta",kg,3887.344203
+2016-17,North,Spices,kg,4963.578197
+2016-17,North,Squash (sobo drink concentrate),kg,747.7412644
+2016-17,North,Sugar,kg,1872.801267
+2016-17,North,Sugar cane,kg,155.7604795
+2016-17,North,Sun dried fish (large variety),kg,1124.518375
+2016-17,North,Sun dried fish (medium variety),kg,420.3913612
+2016-17,North,Sun dried fish (small variety),kg,319.1891466
+2016-17,North,"Sweets, candy, chocolates",kg,213.2946979
+2016-17,North,Tanaposi/rape,kg,114.2757373
+2016-17,North,Tea,kg,3458.546805
+2016-17,North,"Termites, other insects (eg ngumbi, caterpillar)",kg,574.6434537
+2016-17,North,Thobwa,kg,142.8119574
+2016-17,North,Tinned meat or fish,kg,762.8187322
+2016-17,North,Tinned vegetables (specify),kg,
+2016-17,North,Tomato,kg,412.769058
+2016-17,North,Tomato sauce (bottle),kg,743.3489057
+2016-17,North,Traditional beer (masese),kg,251.8521396
+2016-17,North,Wheat flour,kg,653.5294118
+2016-17,North,White sweet potato,kg,184.0466961
+2016-17,North,"Wild fruit (masau, malambe, etc.)",kg,243.2139227
+2016-17,North,Wine or commercial liquor,kg,644.971073
+2016-17,North,"Yeast, baking powder, bicarbonate of soda",kg,1011.568029
+2016-17,North,Yoghurt,kg,1510.506792
+2016-17,North,Zikondamoyo/nkate,kg,145.8888889
+2016-17,Southern,Apple,kg,1085.041261
+2016-17,Southern,Avocado,kg,169.7388694
+2016-17,Southern,Banana,kg,1102.773307
+2016-17,Southern,"Bean, brown",kg,8101.566631
+2016-17,Southern,"Bean, white",kg,3147.284102
+2016-17,Southern,Beef,kg,8465.476632
+2016-17,Southern,Biscuits,kg,2478.691402
+2016-17,Southern,Boiled groundnuts,kg,229.7280801
+2016-17,Southern,Boiled sweet potatoes,kg,104.2063492
+2016-17,Southern,"Bottled / canned beer (carlsberg, etc.)",kg,606.4340761
+2016-17,Southern,Bottled water,kg,317.2557151
+2016-17,Southern,Bread,kg,738.397488
+2016-17,Southern,Breakfast cereal,kg,2893.480771
+2016-17,Southern,"Buns, scones",kg,937.3787478
+2016-17,Southern,Butter,kg,4501.298622
+2016-17,Southern,Cabbage,kg,111.6593518
+2016-17,Southern,Cassava - boiled (vendor),kg,180.9895833
+2016-17,Southern,Cassava - roasted (vendor),kg,31.82291667
+2016-17,Southern,Cassava flour,kg,408.9780361
+2016-17,Southern,Cassava tubers,kg,207.4042834
+2016-17,Southern,Chambiko - soured milk,kg,723.2705556
+2016-17,Southern,Cheese,kg,2291.355658
+2016-17,Southern,Chibuku (commercial traditional-style beer),kg,304.5961314
+2016-17,Southern,Chicken,kg,1765.229542
+2016-17,Southern,Chicken (vendor),kg,3029.234034
+2016-17,Southern,Chicken/pieces,kg,601.8658425
+2016-17,Southern,Chinese cabbage,kg,133.5958494
+2016-17,Southern,Chips (vendor),kg,776.3315156
+2016-17,Southern,"Citrus ï¿½ naartje, orange, etc.",kg,255.3348072
+2016-17,Southern,"Cocoa, millo",kg,54764.37675
+2016-17,Southern,Cocoyam (masimbi),kg,163.8129933
+2016-17,Southern,Coffee,kg,9275.762634
+2016-17,Southern,Cooking oil,kg,703.735379
+2016-17,Southern,Cowpea (khobwe),kg,4406.227799
+2016-17,Southern,Cucumber,kg,155.5875245
+2016-17,Southern,Eggs,kg,1414.465779
+2016-17,Southern,Eggs - boiled (vendor),kg,1221.774194
+2016-17,Southern,Finger millet (mawere),kg,596.7523826
+2016-17,Southern,Fish (vendor),kg,2475.722764
+2016-17,Southern,Fish soup/sauce,kg,
+2016-17,Southern,Freezes (flavoured ice),kg,59.96141381
+2016-17,Southern,Fresh fish (large variety),kg,1101.854389
+2016-17,Southern,Fresh fish (medium variety),kg,466.8992461
+2016-17,Southern,Fresh fish (small variety),kg,294.7886208
+2016-17,Southern,Fresh milk,kg,476.3725102
+2016-17,Southern,Fruit juice,kg,557.6793695
+2016-17,Southern,Gathered wild green leaves,kg,303.7654468
+2016-17,Southern,Goat,kg,2384.120921
+2016-17,Southern,Green maize,kg,251.7317609
+2016-17,Southern,Ground bean (nzama),kg,370.6318309
+2016-17,Southern,Groundnut (shelled),kg,462.8399976
+2016-17,Southern,Groundnut (unshelled),kg,338.5852501
+2016-17,Southern,Groundnut flour,kg,9970.820704
+2016-17,Southern,Groundnut fresh (unshelled),kg,273.8740289
+2016-17,Southern,Guava,kg,247.2042626
+2016-17,Southern,Honey,kg,1991.150718
+2016-17,Southern,"Hot sauce (nali, etc.)",kg,683.7938484
+2016-17,Southern,Infant feeding cereals,kg,3520.588417
+2016-17,Southern,Infant feeding formula (for bottle),kg,7594.675926
+2016-17,Southern,Irish potato,kg,1067.416905
+2016-17,Southern,"Jam, jelly",kg,2386.25
+2016-17,Southern,Locally brewed liquor (kachasu),kg,548.6837157
+2016-17,Southern,Macademia nuts,kg,722.7627148
+2016-17,Southern,Maheu,kg,364.0624946
+2016-17,Southern,Maize - boiled or roasted (vendor),kg,229.1334598
+2016-17,Southern,Maize grain (not as ufa),kg,486.7220562
+2016-17,Southern,Maize ufa madeya (bran flour),kg,267.1240606
+2016-17,Southern,Maize ufa mgaiwa (normal flour),kg,279.508193
+2016-17,Southern,Maize ufa refined (fine flour),kg,328.0412441
+2016-17,Southern,"Mandazi, doughnut (vendor)",kg,853.8591167
+2016-17,Southern,Mango,kg,210.8584747
+2016-17,Southern,Margarine - blue band,kg,22119.71773
+2016-17,Southern,Meal eaten at restaurant,kg,1111.102791
+2016-17,Southern,Meat (vendor),kg,2131.850459
+2016-17,Southern,Mushroom,kg,298.5988754
+2016-17,Southern,Mutton,kg,1459.090909
+2016-17,Southern,Nkhwani,kg,333.8456823
+2016-17,Southern,Okra / therere,kg,361.9671726
+2016-17,Southern,Onion,kg,429.4013602
+2016-17,Southern,Orange sweet potato,kg,156.0609011
+2016-17,Southern,Other (specify),kg,305.0990608
+2016-17,Southern,Other cultivated green leafy vegetables,kg,126.8486584
+2016-17,Southern,Other fruits (specify),kg,728.2407407
+2016-17,Southern,"Other poultry - guinea fowl, doves, etc.",kg,806.8452377
+2016-17,Southern,Other vegetables (specify),kg,244.945518
+2016-17,Southern,Other(specify),kg,179.7864387
+2016-17,Southern,Papaya,kg,307.0608199
+2016-17,Southern,Pearl millet (mchewere),kg,374.8702906
+2016-17,Southern,Pigeonpea (nandolo),kg,2080.483552
+2016-17,Southern,Pineapple,kg,257.4882328
+2016-17,Southern,"Plantain, cooking banana",kg,345.580816
+2016-17,Southern,Popcorn,kg,107.9332671
+2016-17,Southern,Pork,kg,1272.605965
+2016-17,Southern,Potato crisps,kg,4843.670622
+2016-17,Southern,Powdered milk,kg,7816.821957
+2016-17,Southern,Pumpkin,kg,90.42928318
+2016-17,Southern,Rice,kg,675.7746374
+2016-17,Southern,Rosted groundnuts,kg,215.4715435
+2016-17,Southern,Rosted sweet potatoes,kg,95.69444444
+2016-17,Southern,Salt,kg,700.7814166
+2016-17,Southern,Samosa (vendor),kg,702.3524721
+2016-17,Southern,"Small animal ï¿½ rabbit, mice, etc.",kg,7322.550926
+2016-17,Southern,Smoked fish (large variety),kg,491.0885362
+2016-17,Southern,Smoked fish (medium variety),kg,351.6524548
+2016-17,Southern,Smoked fish (small variety),kg,296.8067001
+2016-17,Southern,"Soft drinks (coca-cola, fanta, sprite, etc.)",kg,251.0833348
+2016-17,Southern,Sorghum (mapira),kg,394.167751
+2016-17,Southern,Soyabean flour,kg,9379.466606
+2016-17,Southern,"Spaghetti, macaroni, pasta",kg,1114.072468
+2016-17,Southern,Spices,kg,3097.37547
+2016-17,Southern,Squash (sobo drink concentrate),kg,745.2246676
+2016-17,Southern,Sugar,kg,1487.051973
+2016-17,Southern,Sugar cane,kg,142.4457824
+2016-17,Southern,Sun dried fish (large variety),kg,495.3028075
+2016-17,Southern,Sun dried fish (medium variety),kg,360.1709591
+2016-17,Southern,Sun dried fish (small variety),kg,298.2669329
+2016-17,Southern,"Sweets, candy, chocolates",kg,540.5929577
+2016-17,Southern,Tanaposi/rape,kg,121.1948386
+2016-17,Southern,Tea,kg,7809.287258
+2016-17,Southern,"Termites, other insects (eg ngumbi, caterpillar)",kg,635.8867521
+2016-17,Southern,Thobwa,kg,106.4000313
+2016-17,Southern,Tinned meat or fish,kg,1200.296925
+2016-17,Southern,Tinned vegetables (specify),kg,
+2016-17,Southern,Tomato,kg,335.6508697
+2016-17,Southern,Tomato sauce (bottle),kg,20755.12531
+2016-17,Southern,Traditional beer (masese),kg,201.4391373
+2016-17,Southern,Wheat flour,kg,610.1268116
+2016-17,Southern,White sweet potato,kg,125.2496527
+2016-17,Southern,"Wild fruit (masau, malambe, etc.)",kg,220.0311301
+2016-17,Southern,Wine or commercial liquor,kg,895.3141156
+2016-17,Southern,"Yeast, baking powder, bicarbonate of soda",kg,643.2425601
+2016-17,Southern,Yoghurt,kg,1592.202549
+2016-17,Southern,Zikondamoyo/nkate,kg,82.24181849
