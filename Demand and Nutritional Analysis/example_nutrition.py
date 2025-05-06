@@ -63,7 +63,7 @@ rdi.columns.name = 'k'
 rdi = rdi.apply(lambda x: pd.to_numeric(x,errors='coerce'))
 
 # Assumes you've already set this up e.g., in Project 3
-r = rgsn.read_pickle('mlw_estimates.rgsn')
+r = rgsn.read_pickle('RSGN Files/mlw_estimates.rgsn')
 
 # Reference prices chosen from a particular time; average across place.
 # These are prices per kilogram:
