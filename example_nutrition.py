@@ -189,7 +189,7 @@ def nutrient_demand(x, p):
 import numpy as np
 import matplotlib.pyplot as plt
 
-UseNutrients = ['Protein','Energy','Iron','Calcium', 'Vitamin A', 'Vitamin B-6']
+UseNutrients = ['Protein','Energy','Iron','Vitamin A']
 
 ### Diagnostics
 
