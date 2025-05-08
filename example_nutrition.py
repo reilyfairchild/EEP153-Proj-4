@@ -53,7 +53,7 @@ d.set_index(['i','t','m'],inplace=True)
 
 r = rgsn.Regression(y=y,d=d)
 
-fct = pd.read_csv('Malawi_FCT.csv')
+fct = pd.read_csv('Malawi_FCT (1).csv')
 
 fct = fct.set_index('j')
 fct.columns.name = 'n'
