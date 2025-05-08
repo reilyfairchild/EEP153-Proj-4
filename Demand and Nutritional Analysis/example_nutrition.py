@@ -31,7 +31,7 @@ jidx = p.columns.intersection(x.index.levels[-1])
 p = p[jidx].T
 
 # Household characteristics
-d = pd.read_csv('Data/
+d = pd.read_csv('Data/Malawi_Household_Characteristics.csv')
 d.columns.name = 'k'
 
 # Fill blanks with zeros
@@ -55,7 +55,7 @@ fct.columns.name = 'n'
 
 fct = fct.apply(lambda x: pd.to_numeric(x,errors='coerce'))
 
-rdi = read_sheets(Unutrition, sheet='RDI')
+rdi = pd.read_csv('Data/RDI.csv')
 
 rdi = rdi.set_index('n')
 rdi.columns.name = 'k'
