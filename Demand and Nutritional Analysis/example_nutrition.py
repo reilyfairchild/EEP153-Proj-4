@@ -11,12 +11,12 @@ import numpy as np
 from eep153_tools.sheets import read_sheets
 
 # Change 'Malawi_Data' to key of your own sheet in Sheets, above
-x = read_sheets(Malawi_Data,sheet='Food Expenditures (2019-20)')
+x = pd.read_csv('Data/Malawi_Food_Expenditures(2019-20)_Remapped.csv')
 x = x.set_index(['i','t','m','j']).squeeze()
 
 
 # Now prices
-p = read_sheets(Malawi_Data,sheet='Food Prices (2019-20)').set_index(['t','m','j','u'])
+p = pd.read_csv('Data/Malawi_Food_Prices(2019-20)_Remapped.csv').set_index(['t','m','j','u'])
 
 # Compute medians of prices for particular time, place and unit
 p = p.groupby(['t','m','j','u']).median()
@@ -31,7 +31,7 @@ jidx = p.columns.intersection(x.index.levels[-1])
 p = p[jidx].T
 
 # Household characteristics
-d = read_sheets(Malawi_Data,sheet="Household Characteristics")
+d = pd.read_csv('Data/
 d.columns.name = 'k'
 
 # Fill blanks with zeros
